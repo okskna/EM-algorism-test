@@ -1,2 +1,2 @@
-# EM-algorism-test
+# EM-algorithm-test
 Test of expect&amp;maximize algorithm in pattern recognition.
